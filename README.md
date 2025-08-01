@@ -22,8 +22,8 @@ A responsive hotel booking website built using **HTML, CSS, and JavaScript**, de
 > Add screenshots or a GIF here if possible  
 > _Or insert a Live Link below if hosted_
 
-🔗 [Live Demo](#)  
-💻 [GitHub Repository](#)
+🔗 [Live Demo](https://sridaya.github.io/HotelApp/)  
+💻 [GitHub Repository](https://github.com/sridaya/HotelApp)
 
 ## 📂 Folder Structure
 
